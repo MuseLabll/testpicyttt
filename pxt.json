@@ -7,10 +7,9 @@
         "microphone": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
         "README.md",
         "custom.ts"
+        "_locales/zh/testpicyttt-string.json"
     ],
     "testFiles": [
         "test.ts"
